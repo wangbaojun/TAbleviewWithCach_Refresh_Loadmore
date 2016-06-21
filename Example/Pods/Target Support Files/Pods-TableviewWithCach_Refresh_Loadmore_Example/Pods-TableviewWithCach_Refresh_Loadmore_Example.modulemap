@@ -1,0 +1,6 @@
+framework module Pods_TableviewWithCach_Refresh_Loadmore_Example {
+  umbrella header "Pods-TableviewWithCach_Refresh_Loadmore_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

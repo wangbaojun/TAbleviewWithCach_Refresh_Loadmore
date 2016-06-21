@@ -1,0 +1,22 @@
+{
+  "name": "TableviewWithCach_Refresh_Loadmore",
+  "version": "0.1.0",
+  "summary": "A short description of TableviewWithCach_Refresh_Loadmore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/TableviewWithCach_Refresh_Loadmore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bjwangbaojun": "bjwangbaojun@corp.netease.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/TableviewWithCach_Refresh_Loadmore.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TableviewWithCach_Refresh_Loadmore/Classes/**/*"
+}

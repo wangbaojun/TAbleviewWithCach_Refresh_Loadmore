@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'TableviewWithCach_Refresh_Loadmore_Example' do
+  pod 'TableviewWithCach_Refresh_Loadmore', :path => '../'
+  pod 'Masonry' ,'~> 1.0.1'
+end
