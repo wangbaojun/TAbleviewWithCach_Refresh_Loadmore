@@ -22,7 +22,7 @@ pod "TableviewWithCach_Refresh_Loadmore"
 
 ## Author
 
-bjwangbaojun, bjwangbaojun@corp.netease.com
+ITxiansheng itxiansheng@gmail.com
 
 ## License
 
